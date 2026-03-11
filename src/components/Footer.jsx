@@ -9,7 +9,7 @@ const Footer = () => {
             <p className="mb-3 mb-md-0">
               Made with ❤️ by{" "}
               <a
-                href="https://ravina-ecommerce.netlify.app/"
+                href="https://github.com/Ravina-Patil-Dev"
                 className="text-decoration-underline text-dark fs-5"
                 target="_blank"
                 rel="noreferrer"
